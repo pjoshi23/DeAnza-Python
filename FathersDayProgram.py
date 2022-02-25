@@ -1,4 +1,4 @@
-print('Daddy, would you like to know your best dad score and some cool quotes? Input a year between 2005 - 2019.')
+print('Dad, would you like to know your best dad score and some cool quotes? Input a year between 2005 - 2019.')
 year = input()
 if year[3] == '1': 
     print('Any man can be a Father but it takes someone special to be a dad')
